@@ -1,0 +1,7 @@
+#+TITLE: PsychoNova Repo
+
+* Instrucciones
+** Si quieren suban problemas a la carpeta de problemas, luego los resuelven en la carpeta con su nombre y asi podemos comparar cosos.
+** Realmente pueden subir lo que sea a su carpeta, solo hay que tener orden.
+** Quizá tener una carpeta para los problemas de las competencias del profe y otra para los nuestros. (Ya las añadí)
+** En la carpeta ~problemasGrupales~ se subirán los problemas que resolvamos juntos.
