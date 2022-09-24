@@ -1,0 +1,2 @@
+def generarSubconjuntos(conjunto):
+    pass
