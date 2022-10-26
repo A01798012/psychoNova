@@ -8,3 +8,6 @@ def funcion(n, k):
 
 for i in range(15):
     print(i , funcion(i,0))
+
+
+a = [i for i in range(2)]
