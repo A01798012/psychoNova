@@ -1,5 +1,6 @@
 #+TITLE: PsychoNova Repo
-
+* About this repo
+This repo is for our competitive programming team /PsychoNova/. Here we upload problem solutions between the team so we can track our progress.
 * Instrucciones
 - Si quieren suban problemas a la carpeta de problemas, luego los resuelven en la carpeta con su nombre y asi podemos comparar cosos.
 - Realmente pueden subir lo que sea a su carpeta, solo hay que tener orden.
